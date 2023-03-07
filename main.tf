@@ -26,6 +26,6 @@ module "wasim" {
     "Resource owner" : "Azure"
     "created on" : "07/03/2023"
     "created by" : "Wasim Akram"
-
+    "provide" : "Microsoft"
   }
 }

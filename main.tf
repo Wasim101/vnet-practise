@@ -23,8 +23,9 @@ module "wasim" {
   subnet_prefixes = ["10.0.5.0/24"]
   tags ={
     "cost center" : "89070"
-    "Resource owner" : "Wasim akram"
+    "Resource owner" : "Azure"
     "created on" : "07/03/2023"
     "created by" : "Wasim Akram"
+
   }
 }
